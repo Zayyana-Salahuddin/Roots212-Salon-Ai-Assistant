@@ -1,5 +1,6 @@
 streamlit
 groq
+python-dotenv
 torch
 torchvision
 transformers
