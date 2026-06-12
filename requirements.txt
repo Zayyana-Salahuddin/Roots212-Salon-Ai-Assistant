@@ -1,6 +1,10 @@
 streamlit
 groq
-python-dotenv
+torch
+torchvision
+transformers
 sentence-transformers
 faiss-cpu
 numpy
+pandas
+scikit-learn
