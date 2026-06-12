@@ -1,0 +1,290 @@
+{
+  "salon_name": "Roots 212 Hair Salon",
+  "rating": 4.7,
+  "reviews_count": 100,
+  "description": "Roots 212 Hair Salon is an exclusive Moroccanoil and WoW salon located in Port Saint Lucie, Florida. The salon specializes in healthy hair care, professional coloring, styling, hair smoothing treatments, and personalized salon experiences.",
+
+  "contact": {
+    "phone": "+1 772-212-4322",
+    "address": "10513 SW Meeting St 104, Tradition, Port St. Lucie, FL 34987, United States",
+    "website": "https://roots212.com",
+    "booking_url": "https://roots212inc.salonist.io/booking-online"
+  },
+
+  "social_media": {
+    "instagram": "https://www.instagram.com/roots212hairsalon/?hl=en"
+  },
+
+  "business_hours": {
+    "monday": "10:00 AM - 04:00 PM",
+    "tuesday": "09:00 AM - 05:30 PM",
+    "wednesday": "09:00 AM - 05:30 PM",
+    "thursday": "09:00 AM - 05:30 PM",
+    "friday": "09:00 AM - 05:30 PM",
+    "saturday": "09:00 AM - 04:00 PM",
+    "sunday": "Closed"
+  },
+
+  "founder": {
+    "experience": "40+ years in the beauty industry",
+    "origin": "New York",
+    "message": "The goal of Roots 212 is to provide a trendy, healthy, high-quality salon experience where every visit feels special and exciting."
+  },
+
+  "staff": [
+    {
+      "name": "Rebecca Ortiz",
+      "role": "Hair Stylist",
+      "specialty": "Men's grooming and fades"
+    },
+    {
+      "name": "Gianna Richards",
+      "role": "Color Expert",
+      "specialty": "Partial and full head highlights"
+    },
+    {
+      "name": "Angela Artura",
+      "role": "Senior Stylist",
+      "specialty": "Balayage, Perms, Brazilian Blowouts, Hair Coloring, Botox Treatments"
+    },
+    {
+      "name": "Carolann Roberts",
+      "role": "Hair Stylist",
+      "specialty": "Haircuts"
+    },
+    {
+      "name": "Dana Davis",
+      "role": "Hair Stylist",
+      "specialty": "Men's grooming and fades"
+    },
+    {
+      "name": "Leonor Barwacz",
+      "role": "Senior Stylist",
+      "specialty": "Balayage, Hair Coloring, Brazilian Blowouts, Botox Treatments"
+    }
+  ],
+
+  "services": [
+    {
+      "id": 1,
+      "name": "Haircut ONLY w/ Carol",
+      "price": 60,
+      "duration": "45 minutes"
+    },
+    {
+      "id": 2,
+      "name": "Root Touch Up",
+      "price": 80,
+      "duration": "60 minutes"
+    },
+    {
+      "id": 3,
+      "name": "Haircut Blowout",
+      "price": 70,
+      "duration": "60 minutes"
+    },
+    {
+      "id": 4,
+      "name": "Blowout",
+      "price": 45,
+      "duration": "60 minutes"
+    },
+    {
+      "id": 5,
+      "name": "Mens Color Stain",
+      "price": 40,
+      "duration": "30 minutes"
+    },
+    {
+      "id": 6,
+      "name": "Haircut Mens ONLY",
+      "price": 35,
+      "duration": "30 minutes"
+    },
+    {
+      "id": 7,
+      "name": "Haircut Mens w/ Wash & Style",
+      "price": 45,
+      "duration": "30 minutes"
+    },
+    {
+      "id": 8,
+      "name": "Bang Trim ONLY",
+      "price": 25,
+      "duration": "30 minutes"
+    },
+    {
+      "id": 9,
+      "name": "Color Pull to Ends",
+      "price": 45,
+      "duration": "30 minutes"
+    },
+    {
+      "id": 10,
+      "name": "Highlight Partial",
+      "price": 120,
+      "duration": "60 minutes"
+    },
+    {
+      "id": 11,
+      "name": "Highlight Full Head",
+      "price": 155,
+      "duration": "120 minutes"
+    },
+    {
+      "id": 12,
+      "name": "Baby Lights",
+      "price": 175,
+      "duration": "120 minutes"
+    },
+    {
+      "id": 13,
+      "name": "Highlights and Lowlights",
+      "price": 170,
+      "duration": "120 minutes"
+    },
+    {
+      "id": 14,
+      "name": "Balayage",
+      "price": 160,
+      "duration": "120 minutes"
+    },
+    {
+      "id": 15,
+      "name": "Botox Smoothing Treatment",
+      "price": 250,
+      "duration": "120 minutes"
+    },
+    {
+      "id": 16,
+      "name": "Hair Botox Sample",
+      "price": 50,
+      "duration": "60 minutes"
+    },
+    {
+      "id": 17,
+      "name": "Brazilian Blowout Keratin Treatment",
+      "price": 275,
+      "duration": "180 minutes"
+    },
+    {
+      "id": 18,
+      "name": "Perm",
+      "price": 150,
+      "duration": "120 minutes"
+    },
+    {
+      "id": 19,
+      "name": "Foils Individual",
+      "price": 12,
+      "duration": "30 minutes"
+    },
+    {
+      "id": 20,
+      "name": "Hair Updo",
+      "price": 100,
+      "duration": "60 minutes"
+    },
+    {
+      "id": 21,
+      "name": "Consultation Session",
+      "price": 0,
+      "duration": "15 minutes"
+    },
+    {
+      "id": 22,
+      "name": "Flat Iron / Curl Iron Add",
+      "price": 10,
+      "duration": "10 minutes"
+    },
+    {
+      "id": 23,
+      "name": "Toner Alone",
+      "price": 45,
+      "duration": "30 minutes"
+    },
+    {
+      "id": 24,
+      "name": "Extensions",
+      "price": 200,
+      "duration": "150 minutes"
+    }
+  ],
+
+  "products": [
+    {
+      "name": "Moroccanoil Professional Hair Color",
+      "description": "Premium color system that improves hair condition with every color treatment."
+    },
+    {
+      "name": "WoW Haircare",
+      "description": "Professional haircare and styling products."
+    }
+  ],
+
+  "technology": {
+    "moroccanoil_system": "ProArginine + ArganID System",
+    "benefits": [
+      "64% increase in shine",
+      "96% overall scalp comfort",
+      "9+ weeks of salon-fresh color"
+    ]
+  },
+
+  "policies": {
+    "walk_ins": "Yes, subject to availability.",
+    "appointments_preferred": true,
+    "cancellation_notice": "24 hours",
+    "cancellation_fee": "$30",
+    "payment_methods": [
+      "Cash",
+      "Debit Card",
+      "Credit Card",
+      "Apple Pay"
+    ],
+    "pricing_note": "Prices may vary depending on hair length and thickness."
+  },
+
+  "community": {
+    "program": "Mother Mary's Mission",
+    "description": "Every month a nominated struggling single mother receives a free professional hair makeover."
+  },
+
+  "reviews": [
+    {
+      "author": "Rebecca Diaz",
+      "review": "Great environment and prices, the haircut I got was amazing."
+    },
+    {
+      "author": "Ellen Kershner",
+      "review": "The color was the best and fastest I have ever received."
+    }
+  ],
+
+  "faq": [
+    {
+      "question": "Do you accept walk-ins?",
+      "answer": "Yes, walk-ins are accepted based on availability."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "Cash, Debit Card, Credit Card, and Apple Pay."
+    },
+    {
+      "question": "Can I bring a reference picture?",
+      "answer": "Yes, our stylists encourage inspiration photos."
+    },
+    {
+      "question": "How long does a keratin treatment last?",
+      "answer": "Typically 3 to 6 months with proper care."
+    },
+    {
+      "question": "How often should I get a trim?",
+      "answer": "Every 6 to 8 weeks."
+    },
+    {
+      "question": "Can colored hair receive keratin treatment?",
+      "answer": "Yes, but we recommend waiting one week after coloring."
+    }
+  ]
+}
